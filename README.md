@@ -1,7 +1,6 @@
 # RAG-based-Company-Knowledge-Assistant
 This project implements a Retrieval-Augmented Generation (RAG) system that allows users to query and retrieve information from company documents using LLMs and vector search.
-🧠 Company Knowledge Assistant
-A Retrieval-Augmented Generation (RAG) system that enables intelligent Q&A over company documents. Built with modern AI stack to provide accurate, source-grounded answers from your knowledge base.
+
 
 ✨ Features
 📚 Multi-format Document Support: PDF, Markdown, Word documents, and plain text
